@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/2659724/screenshots/15260020/media/7a047d4f6658eb03053a17b7f598415c.png)
+![MasterHead](https://cdn.dribbble.com/users/2659724/screenshots/15294695/media/6a0abbe1d17c87d90d8b3b99615ce3ec.png)
 <h1 align="center">Hi 👋, I'm Lu Liu</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3501998/file/original-ac09158b5303b5b7113ce9ed2a0d9a5b.gif">
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **luliuszwg@gmail.com**
 
-- ⚡ Fun fact **Let me think**
+- ⚡ Fun fact **: I discovered my passion for coding while trying to automate my pet dog's feeding schedule, leading me from project management to the intricate world of full-stack development!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
