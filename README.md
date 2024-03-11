@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Lu Liu</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate frontend developer based in Winnipeg, Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3501998/file/original-ac09158b5303b5b7113ce9ed2a0d9a5b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ll-fullstack&label=Profile%20views&color=0e75b6&style=flat" alt="ll-fullstack" /> </p>
